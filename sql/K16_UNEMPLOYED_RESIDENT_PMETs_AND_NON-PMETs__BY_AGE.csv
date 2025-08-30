@@ -1,0 +1,10 @@
+Age,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Pmet_Status,Group,Status
+"15 - 29",8.3,7.3,8.2,7.4,8.6,8.8,8.9,9,8.6,6,7.9,PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"30 - 39",8.6,7.1,10.3,9,8.7,8.1,11.2,12.3,8.9,8,9.3,PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"40 - 49",8.7,8.9,9.9,10.8,9.9,11.2,12.6,16.5,8.8,11.2,9.9,PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"50 & Over",6.9,8.9,10.4,10.7,10.8,11,15.5,12.9,13.3,11.2,14.1,PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"15 - 29",15.2,16,13.7,15.3,12.9,15.5,19.5,12,7.9,8.3,7.5,Non-PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"30 - 39",6.4,5.4,5.9,5.4,4.9,5.9,7.9,7.2,8.1,5.2,5.3,Non-PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"40 - 49",6.8,6.2,6.9,6.4,6.2,6.5,8.6,8.8,7.5,5.7,4.2,Non-PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+"50 & Over",13.8,15.8,16.4,17.8,15.4,18,24.5,18.1,15.7,13.4,13.3,Non-PMETs,"Residents Aged Fifteen Years And Over Who Have Worked Before",Unemployed
+ALL,7,8.9,10.6,11.6,11.6,13,14.2,14.4,8.7,14.8,9.5,ALL,"others who have never worked before",Unemployed

@@ -1,0 +1,17 @@
+Age,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Pmet_Status,Group,Status
+15 - 29,0.7,0.6,0.7,0.8,0.7,0.6,1.1,0.6,0.6,0.2,0.8,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+30 - 39,1.4,1.3,2.3,1.6,2.3,1,1.5,2.2,1.1,0.7,1.6,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+40 - 49,2.5,2.6,3.4,3.1,3,1.9,3.2,3.8,1.3,1.7,2.6,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+50 & Over,2.4,3.6,4.4,3.3,4.9,3.9,4.6,5.2,4.1,3.7,5.6,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+15 - 29,0.9,1.2,1,1.2,1.2,1.1,2,1.1,0.3,0.5,0.8,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+30 - 39,0.7,0.9,0.6,1,0.7,1.1,0.8,1,0.8,0.7,1,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+40 - 49,1.2,0.9,1.4,1.1,0.8,1.3,1.7,1.6,1.1,0.5,0.5,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+50 & Over,3.3,3.5,4,3.9,4.1,4,4.1,4.4,3.8,2.8,2.6,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Long-term
+15 - 29,7.6,6.7,7.5,6.6,7.9,8.2,7.8,8.4,8,5.8,7.1,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+30 - 39,7.2,5.8,8,7.4,6.4,7.1,9.7,10.1,7.8,7.3,7.7,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+40 - 49,6.2,6.3,6.5,7.7,6.9,9.3,9.4,12.7,7.5,9.5,7.3,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+50 & Over,4.5,5.3,6,7.4,5.9,7.1,10.9,7.7,9.2,7.5,8.5,PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+15 - 29,14.3,14.8,12.7,14.1,11.7,14.4,17.5,10.9,7.6,7.8,6.7,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+30 - 39,5.7,4.5,5.3,4.4,4.2,4.8,7.1,6.2,7.3,4.5,4.3,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+40 - 49,5.6,5.3,5.5,5.3,5.4,5.2,6.9,7.2,6.4,5.2,3.7,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
+50 & Over,10.5,12.3,12.4,13.9,11.3,14,20.4,13.7,11.9,10.6,10.7,Non-PMETs,Residents Aged Fifteen Years And Over Who Have Worked Before,Short-term
