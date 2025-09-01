@@ -1,20 +1,20 @@
 Occupation,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Gender,Group,Status
-"Managers & Administrators (Including Working Proprietors)",6.1,5.6,7.4,6.7,6,5.5,5.3,7.2,6.4,3.5,7.4,Male,"Residents Aged Fifteen Years And Over",Unemployed
-Professionals,4.9,5.2,6.7,6.1,7.6,5.8,10.3,10.7,9.4,9.6,7.9,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Associate Professionals & Technicians",6.3,7.5,7.2,7.7,7.2,8.7,11.3,9.8,6.2,7.2,8.8,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Clerical Support Workers",4.3,4.5,4.5,4.7,3.7,4.8,5,4.6,3.5,3,3.1,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Service & Sales Workers",6.5,7.4,5.9,7.8,5.8,7.4,8.2,7,5.4,4.2,4.5,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Craftsmen & Related Trades Workers",2,2.4,2.3,2.2,2.3,2.1,2.9,1.4,1.1,1.5,1.1,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Plant & Machine Operators & Assemblers",4.2,3.8,4.2,4.7,4.6,3.6,5.6,4.9,4,2.7,3.1,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Cleaners, Labourers & Related Workers",4.1,3.8,3,3.8,3.2,3.9,6,3.3,4.1,3.8,3.1,Male,"Residents Aged Fifteen Years And Over",Unemployed
-Others,0.2,0.2,0.1,0.3,0.4,0.6,0.2,0.5,0.2,0.1,0.3,Male,"Residents Aged Fifteen Years And Over",Unemployed
-"Managers & Administrators (Including Working Proprietors)",3.3,2.5,3.1,3.4,3.5,3.3,3.3,5.6,3.6,2.8,3.6,Female,"Residents Aged Fifteen Years And Over",Unemployed
-Professionals,5.6,5.5,6.4,6.9,6.5,7.1,7.5,10.1,7.7,6.8,6.7,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"Associate Professionals & Technicians",6.4,6.1,8.1,7.2,7.1,8.7,10.5,7.3,6.3,6.4,6.9,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"Clerical Support Workers",9.5,10.2,10.8,10.4,8.8,11.1,12.9,11.1,9.9,8.6,8.4,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"Service & Sales Workers",6.5,7.5,7.5,7.3,6.7,8.8,13.4,8.9,7.6,5.5,4.5,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"Craftsmen & Related Trades Workers",0.2,0.3,0.5,0.2,0.3,0.5,0.6,0.2,0.1,0.4,0.3,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"Plant & Machine Operators & Assemblers",1.2,0.8,0.5,0.8,0.4,0.6,0.5,0.5,0.6,0.3,0.5,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"Cleaners, Labourers & Related Workers",3.4,2.6,3.6,2.7,3.1,2.4,5.1,3.5,2.9,2.5,1.5,Female,"Residents Aged Fifteen Years And Over",Unemployed
-Others,NULL,NULL,NULL,NULL,0.1,0.1,0.1,0.1,NULL,NULL,0.1,Female,"Residents Aged Fifteen Years And Over",Unemployed
-"others who have never worked before",7,8.600000000000009,10.5,11.5,11.700000000000003,13.000000000000014,14.200000000000017,14.5,8.5,14.900000000000006,9.200000000000003,ALL,"Residents Aged Fifteen Years And Over",Unemployed
+Managers & Administrators (Including Working Proprietors),6.1,5.6,7.4,6.7,6,5.5,5.3,7.2,6.4,3.5,7.4,Male,Residents Aged Fifteen Years And Over,Unemployed
+Professionals,4.9,5.2,6.7,6.1,7.6,5.8,10.3,10.7,9.4,9.6,7.9,Male,Residents Aged Fifteen Years And Over,Unemployed
+Associate Professionals & Technicians,6.3,7.5,7.2,7.7,7.2,8.7,11.3,9.8,6.2,7.2,8.8,Male,Residents Aged Fifteen Years And Over,Unemployed
+Clerical Support Workers,4.3,4.5,4.5,4.7,3.7,4.8,5,4.6,3.5,3,3.1,Male,Residents Aged Fifteen Years And Over,Unemployed
+Service & Sales Workers,6.5,7.4,5.9,7.8,5.8,7.4,8.2,7,5.4,4.2,4.5,Male,Residents Aged Fifteen Years And Over,Unemployed
+Craftsmen & Related Trades Workers,2,2.4,2.3,2.2,2.3,2.1,2.9,1.4,1.1,1.5,1.1,Male,Residents Aged Fifteen Years And Over,Unemployed
+Plant & Machine Operators & Assemblers,4.2,3.8,4.2,4.7,4.6,3.6,5.6,4.9,4,2.7,3.1,Male,Residents Aged Fifteen Years And Over,Unemployed
+"Cleaners, Labourers & Related Workers",4.1,3.8,3,3.8,3.2,3.9,6,3.3,4.1,3.8,3.1,Male,Residents Aged Fifteen Years And Over,Unemployed
+Others,0.2,0.2,0.1,0.3,0.4,0.6,0.2,0.5,0.2,0.1,0.3,Male,Residents Aged Fifteen Years And Over,Unemployed
+Managers & Administrators (Including Working Proprietors),3.3,2.5,3.1,3.4,3.5,3.3,3.3,5.6,3.6,2.8,3.6,Female,Residents Aged Fifteen Years And Over,Unemployed
+Professionals,5.6,5.5,6.4,6.9,6.5,7.1,7.5,10.1,7.7,6.8,6.7,Female,Residents Aged Fifteen Years And Over,Unemployed
+Associate Professionals & Technicians,6.4,6.1,8.1,7.2,7.1,8.7,10.5,7.3,6.3,6.4,6.9,Female,Residents Aged Fifteen Years And Over,Unemployed
+Clerical Support Workers,9.5,10.2,10.8,10.4,8.8,11.1,12.9,11.1,9.9,8.6,8.4,Female,Residents Aged Fifteen Years And Over,Unemployed
+Service & Sales Workers,6.5,7.5,7.5,7.3,6.7,8.8,13.4,8.9,7.6,5.5,4.5,Female,Residents Aged Fifteen Years And Over,Unemployed
+Craftsmen & Related Trades Workers,0.2,0.3,0.5,0.2,0.3,0.5,0.6,0.2,0.1,0.4,0.3,Female,Residents Aged Fifteen Years And Over,Unemployed
+Plant & Machine Operators & Assemblers,1.2,0.8,0.5,0.8,0.4,0.6,0.5,0.5,0.6,0.3,0.5,Female,Residents Aged Fifteen Years And Over,Unemployed
+"Cleaners, Labourers & Related Workers",3.4,2.6,3.6,2.7,3.1,2.4,5.1,3.5,2.9,2.5,1.5,Female,Residents Aged Fifteen Years And Over,Unemployed
+Others,NULL,NULL,NULL,NULL,0.1,0.1,0.1,0.1,NULL,NULL,0.1,Female,Residents Aged Fifteen Years And Over,Unemployed
+others who have never worked before,7,8.6,10.5,11.5,11.7,13,14.2,14.5,8.5,14.9,9.2,Undefined,Residents Aged Fifteen Years And Over,Unemployed
